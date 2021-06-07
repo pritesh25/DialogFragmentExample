@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFragmentExample</string>
+    <string name="click_me">Click me!</string>
+    <string name="this_is_dialog_fragment">This is dialog fragment,This is dialog fragment,This is dialog fragment,This is dialog fragment</string>
+</resources>
