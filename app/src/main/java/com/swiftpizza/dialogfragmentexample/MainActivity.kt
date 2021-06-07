@@ -1,7 +1,7 @@
 package com.swiftpizza.dialogfragmentexample
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.swiftpizza.dialogfragmentexample.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
                 .commitNow()
         }
     }
+
+    //this is pritesh
+
 }
